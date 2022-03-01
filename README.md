@@ -4,7 +4,10 @@ I am a student at the University of Iowa studying Business Analytics and Informa
 
 ### Description
 
-### *How to Run Program*
+### How to Run Program
+1)
+2)
+3)
 
 ##### Files Used
 -
@@ -13,7 +16,7 @@ I am a student at the University of Iowa studying Business Analytics and Informa
 
 ##### Additional Documentation
 
-#### Version Summary
+#### *Version Summary*
 
 ### How to reach me
 fields.j.nicholas@gmail.com
