@@ -6,15 +6,16 @@ I am a student at the University of Iowa studying Business Analytics and Informa
 
 ## *How to Run Program*
 
-### Files Used
+##### Files Used
 -
 -
 -
 
-### Additional Documentation
+##### Additional Documentation
 
 ## Version Summary
 
-# How to reach me
+### How to reach me
 Email: fields.j.nicholas@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/nick-j-fields/)
